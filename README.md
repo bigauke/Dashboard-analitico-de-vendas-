@@ -59,3 +59,6 @@ Considerações Adicionais
 O dashboard também oferece ao usuário a possibilidade de filtrar os dados por Ano, Segmento e País, o que permite análises personalizadas e uma visualização mais refinada dos indicadores de desempenho.
 
 Essas respostas foram extraídas e interpretadas com base nas informações apresentadas no PDF do Dashboard Analítico de Vendas Globais. Se precisar de mais detalhes ou de uma análise adicional, estou à disposição para ajudar!
+
+![image](https://github.com/user-attachments/assets/62065edf-df99-4503-a194-c31cbfc2be9f)
+
